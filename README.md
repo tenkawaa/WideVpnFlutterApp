@@ -1,4 +1,4 @@
-# wide_vpn
+# WideVpn
 
 A new Flutter project.
 
