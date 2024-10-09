@@ -1,6 +1,6 @@
 # WideVpn
 
-A new Flutter project.
+the vpn that will be the best
 
 ## Getting Started
 
